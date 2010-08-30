@@ -1,0 +1,74 @@
+body {
+	font-family: georgia,"times new roman",times,serif;
+	max-width: 480px;
+}
+
+a {
+	color: #004276;
+	font-family: georgia,"times new roman",times,serif;
+	text-decoration: none;
+}
+
+p {
+	margin: 0 0 10px 0;
+}
+
+#logo {
+	margin: 3px;
+}
+
+#content {
+	margin: 5px 5px 0 5px;
+}
+
+#weather {
+	font-size: 11px;
+	color: #666;
+	margin: 5px 0 0 5px;
+}
+
+#title {
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+	line-height: 1.6em;
+}
+
+.back_to_home {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.story {
+	font-size: 13px;
+	margin: 10px 0 0 0;
+	line-height: 1.467em;
+}
+
+.story_title {
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 8px;
+}
+
+.author {
+	font-size: 13px;
+	color: #666;
+}
+
+.description {
+	font-size: 13px;
+}
+
+.published_at {
+	font-size: 13px;
+	margin-top: 5px;
+}
+
+#footer {
+	border-top: 1px solid #ccc;
+	margin: 8px 0 8px 5px;
+	padding: 8px 0 8px 0;
+	color: #999;
+	font-size: 13px;
+}
